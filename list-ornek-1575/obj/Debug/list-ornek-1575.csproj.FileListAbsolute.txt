@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\bin\Debug\list-ornek-1575.exe.config
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\bin\Debug\list-ornek-1575.exe
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\bin\Debug\list-ornek-1575.pdb
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\obj\Debug\list-ornek-1575.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\obj\Debug\list-ornek-1575.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\obj\Debug\list_ornek_1575.Form1.resources
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\obj\Debug\list_ornek_1575.Properties.Resources.resources
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\obj\Debug\list-ornek-1575.csproj.GenerateResource.cache
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\obj\Debug\list-ornek-1575.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\obj\Debug\list-ornek-1575.exe
+C:\Users\User\source\repos\list-ornek-1575\list-ornek-1575\obj\Debug\list-ornek-1575.pdb
